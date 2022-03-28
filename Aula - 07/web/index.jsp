@@ -19,17 +19,10 @@
         <div class = "container-fluid">
             <h1>Pagina Inicial</h1>
         </div>
-        <hr/>
         <h3>
-           Nome:Ezequiel Durte de Souza  
-           RA:1290482022008         
+           Nome:Pedro Henrique Rios e Silva  
+           RA:1290481923011         
         </h3>
-         <hr/>
-        <H3>
-            Nome:Guilherme Blota Neves
-            RA:1290482022010
-        </H3>
-        <hr/>
         
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     </body>
